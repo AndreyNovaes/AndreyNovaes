@@ -1,6 +1,7 @@
-<h3 align="center"> :man: Me chamo Andrey De Novaes Ferreira, tenho 24 anos.  <br />
-:heart_eyes_cat: Sou apaixonado por tecnologia, jogos e desafios.  <br />
-:mortar_board: Atualmente estudo desenvolvimento web na trybe. </h3 > <br />
+### Salve salve, me chamo Andrey De Novaes Ferreira
+### Sou apaixonado por tecnologia, jogos e desafios 🚀
+### Busco, por meio da tecnologia, estimular a excelência e impactar o mercado de tecnologia Brasileiro.
+#
 
 <br />
 
