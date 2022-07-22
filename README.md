@@ -1,6 +1,6 @@
 ### Salve salve, me chamo Andrey De Novaes Ferreira
 ### Sou apaixonado por tecnologia, jogos e desafios 🚀
-### Busco, por meio da tecnologia, estimular a excelência e impactar o mercado de tecnologia Brasileiro.
+### Busco, por meio da tecnologia, estimular a excelência e impactar o mercado de tecnologia Brasileiro 🇧🇷
 #
 
 <br />
