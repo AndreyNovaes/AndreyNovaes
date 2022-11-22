@@ -28,9 +28,6 @@
   <img align="center" alt="mongodb" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img align="center" alt="mysql" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
 </div>
-  
-  ![snake gif](https://github.com/AndreyNovaes/AndreyNovaes/blob/output/github-contribution-grid-snake.svg)
-     
 </div>
 
 
